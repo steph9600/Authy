@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251246304273",
+    "project_id": "app-auth-ef999",
+    "storage_bucket": "app-auth-ef999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251246304273:android:c0d96277efb0e2d2de25b0",
+        "android_client_info": {
+          "package_name": "stephenkachikwu.auth_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251246304273-osvdfpj0hj15gi9ig6bvf8umaapk1k7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_kKadsWcGHM-Z_cMNZsZqt08BXYBJsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251246304273-osvdfpj0hj15gi9ig6bvf8umaapk1k7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
